@@ -25,6 +25,18 @@ Original Image:
 
 ![Original Image](./figs/imgs/einstein.png)
 
+Compressed Image ($k = 80$):
+
+![Compressed Image](./figs/outs/einstein80.png)
+
+Compressed Image ($k = 40$):
+
+![Compressed Image](./figs/outs/einstein40.png)
+
+Compressed Image ($k = 30$):
+
+![Compressed Image](./figs/outs/einstein30.png)
+
 Compressed Image ($k = 20$):
 
 ![Compressed Image](./figs/outs/einstein20.png)
